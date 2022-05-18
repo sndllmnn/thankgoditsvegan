@@ -1,0 +1,27 @@
+[
+    {
+      "id": "0",
+      "title": "simply v wuerzig",
+      "brand": "simply v",
+      "category": "cheese",
+      "price": 2.99,
+      "description": "Schon der aromatische, würzige Duft verführt zum Reinbeißen. Wir haben so lange getüftelt, bis auf pflanzlicher Basis ein herzhaft veganer Genuss entstanden ist, der an klassischen Käse erinnert. Übrigens sind sie nicht nur auf dem Sandwich lecker, sondern auch perfekt für Raclette geeignet."
+    },
+    {
+        "id": "1",
+        "title": "bedda bockshornklee",
+        "brand": "bedda",
+        "category": "cheese",
+        "price": 2.99,
+        "description": "Veganer Scheibenkäse-Ersatz auf Basis von Kokosöl. 100% pflanzlich. Angereichert mit Calcium und Vitamin B12. Nussig und intensiv: Unsere bedda Scheiben mit extra viel Bockshornklee"
+      },
+      {
+        "id": "2",
+        "title": "vegane geniesserscheiben",
+        "brand": "rewe",
+        "category": "cheese",
+        "price": 1.99,
+        "description": "Lebensmittelzubereitung auf Basis von Pflanzenfett."
+      }
+    
+  ]
