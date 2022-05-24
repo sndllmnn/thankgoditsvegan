@@ -4,6 +4,7 @@ module.exports = {
     colors: {
       beige: '#E4D1B9',
       brown: '#A97155',
+      dBrown: '#8F6152',
     },
     extend: {},
   },
