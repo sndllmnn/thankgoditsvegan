@@ -55,6 +55,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["react-native-vector-icons", "npm:9.1.0"],\
             ["react-router-dom", "virtual:eae140a09c45010955cf30b1ec9735f997145a45f4d89a13ef1e788b122dff510d3605a101bf642890d054d5906bef3d7654895d93da99c43911e835a755c773#npm:6.3.0"],\
             ["tailwindcss", "virtual:eae140a09c45010955cf30b1ec9735f997145a45f4d89a13ef1e788b122dff510d3605a101bf642890d054d5906bef3d7654895d93da99c43911e835a755c773#npm:3.0.24"],\
+            ["typescript", "patch:typescript@npm%3A4.7.2#~builtin<compat/typescript>::version=4.7.2&hash=bda367"],\
             ["version", "npm:0.1.2"],\
             ["vite", "virtual:eae140a09c45010955cf30b1ec9735f997145a45f4d89a13ef1e788b122dff510d3605a101bf642890d054d5906bef3d7654895d93da99c43911e835a755c773#npm:2.9.0"]\
           ],\
@@ -2712,6 +2713,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["react-native-vector-icons", "npm:9.1.0"],\
             ["react-router-dom", "virtual:eae140a09c45010955cf30b1ec9735f997145a45f4d89a13ef1e788b122dff510d3605a101bf642890d054d5906bef3d7654895d93da99c43911e835a755c773#npm:6.3.0"],\
             ["tailwindcss", "virtual:eae140a09c45010955cf30b1ec9735f997145a45f4d89a13ef1e788b122dff510d3605a101bf642890d054d5906bef3d7654895d93da99c43911e835a755c773#npm:3.0.24"],\
+            ["typescript", "patch:typescript@npm%3A4.7.2#~builtin<compat/typescript>::version=4.7.2&hash=bda367"],\
             ["version", "npm:0.1.2"],\
             ["vite", "virtual:eae140a09c45010955cf30b1ec9735f997145a45f4d89a13ef1e788b122dff510d3605a101bf642890d054d5906bef3d7654895d93da99c43911e835a755c773#npm:2.9.0"]\
           ],\
@@ -5159,6 +5161,15 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/type-fest-npm-0.20.2-b36432617f-4fb3272df2.zip/node_modules/type-fest/",\
           "packageDependencies": [\
             ["type-fest", "npm:0.20.2"]\
+          ],\
+          "linkType": "HARD"\
+        }]\
+      ]],\
+      ["typescript", [\
+        ["patch:typescript@npm%3A4.7.2#~builtin<compat/typescript>::version=4.7.2&hash=bda367", {\
+          "packageLocation": "./.yarn/cache/typescript-patch-cb65c93a25-09d93fc098.zip/node_modules/typescript/",\
+          "packageDependencies": [\
+            ["typescript", "patch:typescript@npm%3A4.7.2#~builtin<compat/typescript>::version=4.7.2&hash=bda367"]\
           ],\
           "linkType": "HARD"\
         }]\
