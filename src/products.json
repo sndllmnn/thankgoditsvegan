@@ -1,3 +1,4 @@
+
 [
     {
       "id": "0",
@@ -5,7 +6,8 @@
       "brand": "simply v",
       "category": "cheese",
       "price": 2.99,
-      "description": "Schon der aromatische, würzige Duft verführt zum Reinbeißen. Wir haben so lange getüftelt, bis auf pflanzlicher Basis ein herzhaft veganer Genuss entstanden ist, der an klassischen Käse erinnert. Übrigens sind sie nicht nur auf dem Sandwich lecker, sondern auch perfekt für Raclette geeignet."
+      "description": "Schon der aromatische, würzige Duft verführt zum Reinbeißen. Wir haben so lange getüftelt, bis auf pflanzlicher Basis ein herzhaft veganer Genuss entstanden ist, der an klassischen Käse erinnert. Übrigens sind sie nicht nur auf dem Sandwich lecker, sondern auch perfekt für Raclette geeignet.",
+    "img": "/assets/images/productImages/simplyV_der_wuerzige_kaese_vegan.png"
     },
     {
         "id": "1",
@@ -23,5 +25,5 @@
         "price": 1.99,
         "description": "Lebensmittelzubereitung auf Basis von Pflanzenfett."
       }
-    
+  
   ]
