@@ -25,8 +25,8 @@ import Userprofile from "./views/userProfile/UserProfile";
 
 function App() {
   return (
-    <>
-      <body>
+    
+      
         <Routes>
           <Route path="/" element={<StartScreen />} />
           <Route path="categories" element={<CategoryOverview />} />
@@ -39,8 +39,8 @@ function App() {
           <Route path="dashboard/categories/category" element={<Category />} />
           <Route path="dashboard/categories/category/productpage" element={<ProductPage />} />
         </Routes>
-      </body>
-    </>
+      
+    
   );
 }
 
