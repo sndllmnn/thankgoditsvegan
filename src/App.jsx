@@ -16,6 +16,7 @@ import CategoryBox from "./components/buttons/CategoryBox";
 import CategoryOverview from './views/categoryOverview/CategoryOverview';
 import ConstantHeader from "./layout/header/Header";
 import Dashboard from "./views/dashboard/Dashboard";
+import NewComment from "./components/forms/NewComment/NewComment";
 import ProductPage from "./views/productPage/ProductPage";
 import Userprofile from "./views/userProfile/UserProfile";
 
@@ -37,9 +38,6 @@ function App() {
           <Route path="dashboard/categories" element={<CategoryOverview />} />
           <Route path="dashboard/categories/category" element={<Category />} />
           <Route path="dashboard/categories/category/productpage" element={<ProductPage />} />
-
-
-
         </Routes>
       </body>
     </>
